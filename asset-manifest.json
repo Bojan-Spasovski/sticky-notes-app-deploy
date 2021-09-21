@@ -1,0 +1,13 @@
+{
+  "main.css": "/sticky-notes-app-deploy/static/css/main.b4e0a372.chunk.css",
+  "main.js": "/sticky-notes-app-deploy/static/js/main.fc17da56.chunk.js",
+  "main.js.map": "/sticky-notes-app-deploy/static/js/main.fc17da56.chunk.js.map",
+  "runtime~main.js": "/sticky-notes-app-deploy/static/js/runtime~main.eb557b15.js",
+  "runtime~main.js.map": "/sticky-notes-app-deploy/static/js/runtime~main.eb557b15.js.map",
+  "static/js/2.c3b02ecb.chunk.js": "/sticky-notes-app-deploy/static/js/2.c3b02ecb.chunk.js",
+  "static/js/2.c3b02ecb.chunk.js.map": "/sticky-notes-app-deploy/static/js/2.c3b02ecb.chunk.js.map",
+  "index.html": "/sticky-notes-app-deploy/index.html",
+  "precache-manifest.69ad86d3c50879683a679067753fd470.js": "/sticky-notes-app-deploy/precache-manifest.69ad86d3c50879683a679067753fd470.js",
+  "service-worker.js": "/sticky-notes-app-deploy/service-worker.js",
+  "static/css/main.b4e0a372.chunk.css.map": "/sticky-notes-app-deploy/static/css/main.b4e0a372.chunk.css.map"
+}
